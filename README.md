@@ -1,2 +1,0 @@
-# myblog
-wangsy的blog
